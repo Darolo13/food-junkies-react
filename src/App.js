@@ -1,10 +1,10 @@
-import './App.css';
+import Header from './components/Header';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Initial Scaffolding</h1>
-    </div>
+    <>
+      <Header />
+    </>
   );
 }
 
